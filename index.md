@@ -21,6 +21,7 @@ Square Enix Presents 2021 | [June 13, 12:15 PM PDT / 3:15 PM ET / 21:15 CEST](ht
 PC Gaming Show | [June 13, 2:30 PM PDT / 5:30 PM ET / 23:30 PM CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210613T213000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/pcgamer), [YouTube](https://www.youtube.com/pcgamer) | Expect updates on Dying Light 2 Stay Human, Hello Neighbor 2, Chivalry 2, and others.
 Future Games Show | [June 13, 4 PM PDT / 7 PM ET and June 14, 01:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210613T230000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/gamesradar), [YouTube](https://www.twitch.tv/gamesradar), [Facebook](https://www.facebook.com/gamesradarplus)
 #LRG3 2021 | [June 14, 1 PM PDT / 4 PM ET / 22:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T200000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/limitedrungames) | Electronic Announcement Event Showcase Video from Limited Run Games.
+Capcom | [June 14, 2:30 PM PDT, 5:30 PM ET / 23:30 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T213000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/CapcomUSA), [YouTube](https://www.youtube.com/channel/UCW7h-1mymnJ96akzjrmiIgA), [Facebook](https://www.facebook.com/CapcomUSA)
 Razer E3 Keynote | [June 14, 3 PM PDT / 6 PM ET and June 15, 00:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T220000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Website](https://www.razer.com/events/razer-e3-keynote), direct link TBD |
 Nintendo Direct & Nintendo Treehouse: Live | [June 15, 09 AM PDT / 12 PM ET / 18:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210615T160000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/Nintendo) | 
 Steam Next Fest | June 16, exact timing TBD | [Website](https://store.steampowered.com/sale/nextfest) | This is the starting date for the event that will last until June 22.
@@ -30,7 +31,6 @@ Nacon Direct | [July 6, 10 AM PDT / 1 PM ET / 19:00 CEST](https://www.timeanddat
 
 Show, company, IP or topic | Date and Time | Where to watch | Comments
 -------------------- | ------------- | -------------- | --------
-Capcom | June 14 | TBD
 Take-Two Interactive | June 14 | TBD
 Bandai Namco | June 15 | TBD
 PAX Online 2021 | July 16-18 | TBD
