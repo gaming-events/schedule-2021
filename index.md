@@ -1,7 +1,7 @@
 # 2021 Schedule of livestreamed Gaming Events & Presentations
 ## Check where to watch live!
 
-Below you will find a list of all upcoming gaming events, conferences, and presentations. Please feel free to share and if something is missing either comment or commit an update. The list will be updated as often as possible. Bookmark this page as it will become your best friend for gaming updates. :wink:
+Below you will find a list of all upcoming gaming events, conferences, and presentations. Please feel free to share and if something is missing either comment or commit an update. The list will be updated as often as possible. Bookmark this page as it will become your best friend for gaming updates.
 
 ### Upcoming livestreams
 
@@ -49,4 +49,4 @@ EA Play Live | July 22 | [YouTube](https://www.youtube.com/user/EA)
 QuakeCon 2021 | August 19-21 | TBD
 Gamescom 2021 | August 23-27 | TBD | Gamescom Opening Night Live scheduled for August 25
 Pax West 2021 | September 3-6 | TBD
-TokyouGameShow | September 30 - October 3 | TBD
+Tokyo Game Show 2021 | September 30 - October 3 | TBD
