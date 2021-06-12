@@ -7,8 +7,6 @@ Below you will find a list of all upcoming gaming events, conferences, and prese
 
 Show, company, IP or topic | Date and Time | Where to watch | Comments
 -------------------- | ------------- | -------------- | --------
-Koch Primetime Gaming Stream | [June 11, 12 PM PDT / 3PM ET / 21:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T190000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/weknowsomethingudontknow/) | 
-IGN Expo | [June 11, 1 PM PDT / 4 PM ET / 22:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T200000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube]() | Part of IGN's [Summer of Gaming 2021](https://www.ign.com/articles/summer-of-gaming-2021-schedule-how-to-watch-announcements-games-date-time)
 Guerrilla Collective | [June 12, 8 AM PDT / 11 AM ET / 17:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T150000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/guerrillacollective)
 Wholesome Direct | [June 12, 10 AM PDT / 1 PM ET / 19:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T170000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Website](https://www.wholesomegames.com/), direct link TBD | 
 Ubisoft Forward | [June 12, 11 AM PDT/  2 PM ET / 20:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210612T180000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/watch?v=ydOv_hunhjE) | 
@@ -37,6 +35,8 @@ Show, company, IP or topic | Date and Time | Where to watch | Comments
 Battlefield | [June 9, 7 AM PDT / 10 AM ET / 16:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210609T140000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/battlefield) | Battlefield 2042 revealed.
 Summer Game Fest: Kickoff Live! | [June 10, 11 AM PDT / 2 PM ET / 20:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210610T180000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/watch?v=MqXeohrnoaY) | 
 Gearbox | As above | [Website](https://playwonderlands.2k.com/) | Tiny Tina's Wonderlands revealed as part of Summer Game Fest.
+Koch Primetime Gaming Stream | [June 11, 12 PM PDT / 3PM ET / 21:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T190000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/weknowsomethingudontknow/) | 
+IGN Expo | [June 11, 1 PM PDT / 4 PM ET / 22:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T200000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube]() | Part of IGN's [Summer of Gaming 2021](https://www.ign.com/articles/summer-of-gaming-2021-schedule-how-to-watch-announcements-games-date-time)
 
 ### Pending details
 
