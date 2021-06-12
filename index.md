@@ -8,7 +8,7 @@ Below you will find a list of all upcoming gaming events, conferences, and prese
 Show, company, IP or topic | Date and Time | Where to watch | Comments
 -------------------- | ------------- | -------------- | --------
 Guerrilla Collective | [June 12, 8 AM PDT / 11 AM ET / 17:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T150000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/guerrillacollective)
-Wholesome Direct | [June 12, 10 AM PDT / 1 PM ET / 19:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T170000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Website](https://www.wholesomegames.com/), direct link TBD | 
+Wholesome Direct | [June 12, 10 AM PDT / 1 PM ET / 19:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210611T170000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/watch?v=Ozqhc7YXd3M) | 
 Ubisoft Forward | [June 12, 11 AM PDT/  2 PM ET / 20:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210612T180000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/watch?v=ydOv_hunhjE) | 
 Devolver Digital | [June 12, 1:30 PM PDT / 4:30 PM ET / 22:30 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210612T203000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/DevolverDigital) | Part of Summer Game Fest.
 UploadVR Showcase | [June 12, 3 PM PDT / 6 PM ET and June 13, 00:00 CEST]() | [YouTube](https://www.youtube.com/channel/UCqDMvCa1tGak6AmijajiKOw) | 
