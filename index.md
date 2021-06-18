@@ -7,10 +7,6 @@ Below you will find a list of all upcoming gaming events, conferences, and prese
 
 Show, company, IP or topic | Date and Time | Where to watch | Comments
 -------------------- | ------------- | -------------- | --------
-Bandai Namco | [June 15, 2:25 PM PDT / 5:25PM ET / 23:25 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T212500&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/NamcoBandaiGamesEU)
-GameSpot Play for All Live | [June 16, 9 AM PT / 12 PM ET / 18:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210616T160000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/gamespot), [Twitch](https://www.twitch.tv/gamespot) | Two days of livestreams starting from June 16.
-Steam Next Fest | June 16, exact timing TBD | [Website](https://store.steampowered.com/sale/nextfest) | This is the starting date for the event that will last until June 22.
-Xbox Games Showcase: Extended | [June 17, 10 AM PT / 1 PM ET / 19:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210617T170000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Source](https://twitter.com/vicious696/status/1404147033875705858), link TBD
 Nacon Direct | [July 6, 10 AM PDT / 1 PM ET / 19:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210706T170000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/Nacon), [YouTube](https://www.youtube.com/Nacon) | 
 Annapurna Interactive Showcace | [June 29, 12PM PDT / 3PM ET / 21:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210729T190000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/annapurnainteractive), [Twitch](https://www.twitch.tv/annapurnainteractive)
 
@@ -38,6 +34,10 @@ Take-Two Interactive | [June 14, 10:15 AM PDT / 1:15 PM ET / 19:15 CEST](https:/
 Capcom | [June 14, 2:30 PM PDT / 5:30 PM ET / 23:30 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T213000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Twitch](https://www.twitch.tv/CapcomUSA), [YouTube](https://www.youtube.com/channel/UCW7h-1mymnJ96akzjrmiIgA), [Facebook](https://www.facebook.com/CapcomUSA)
 Razer E3 Keynote | [June 14, 3 PM PDT / 6 PM ET and June 15, 00:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T220000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [Website](https://www.razer.com/events/razer-e3-keynote), direct link TBD |
 Nintendo Direct & Nintendo Treehouse: Live | [June 15, 09 AM PDT / 12 PM ET / 18:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210615T160000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/Nintendo) | 
+Bandai Namco | [June 15, 2:25 PM PDT / 5:25PM ET / 23:25 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210614T212500&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/NamcoBandaiGamesEU)
+GameSpot Play for All Live | [June 16, 9 AM PT / 12 PM ET / 18:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210616T160000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/user/gamespot), [Twitch](https://www.twitch.tv/gamespot) | Two days of livestreams starting from June 16.
+Steam Next Fest | June 16 | [Website](https://store.steampowered.com/sale/nextfest) | Ongoing on Steam.
+Xbox Games Showcase: Extended | [June 17, 10 AM PT / 1 PM ET / 19:00 CEST](https://www.timeanddate.com/worldclock/converter.html?iso=20210617T170000&p1=tz_pdt&p2=tz_et&p3=tz_cest) | [YouTube](https://www.youtube.com/watch?v=L7ZCGAUSCAU)
 
 ### Pending details
 
